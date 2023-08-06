@@ -20,7 +20,7 @@
 - 👀 I’m interested in Study 
 - 🌱 I’m currently learning React with Django
 - 💞️ I’m looking to collaborate on learn
-- 📫 How to reach me mail(at)andreasbaumgartner.ch
+- 📫 How to reach me mail@andreasbaumgartner.ch
 
 
 ### 💻: Languages :
