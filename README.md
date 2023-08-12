@@ -16,11 +16,11 @@
 </div>
 
 ### 👨‍💻: About Me :
-- 👋 Hi, I’m @andreasbaumgartner
-- 👀 I’m interested in Study 
-- 🌱 I’m currently learning React with Django
-- 💞️ I’m looking to collaborate on learn
-- 📫 How to reach me mail@andreasbaumgartner.ch
+🖐️ Hello! I'm Andreas Baumgartner.
+📘 Passionate about continuous learning and self-improvement.
+🖥️ Currently diving deep into React paired with Django.
+🤝 Open to collaborating on educational projects and mutual learning.
+💌 Reach out to me at: mail@andreasbaumgartner.ch
 
 
 ### 💻: Languages :
